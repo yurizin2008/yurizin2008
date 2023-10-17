@@ -1,4 +1,13 @@
-### Hi there 👋
+### Boas vinda ao meu perfil 👋
+
+Meu nome é Yuri Salomão Vidotto Rodrigues. 😊
+- Estou aprendendo a programar com a plataforna Alura. 💻
+- Me enteressam a liguagens de programação: JavaScript e  Scratch.
+- Tambem estou aprendendo as linguagens de marcaçao: HTML e css. :
+- Utilizo este espaço para salvar meus projetos e compartilhar meus codigos. 🇧🇷
+
+- ### Meu e-mail para contato é 📧 yuri.vidotto.rodrigues@escola.pr.gov.br
+- 
 
 <!--
 **yurizin2008/yurizin2008** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
