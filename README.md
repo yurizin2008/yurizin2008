@@ -7,6 +7,7 @@ Meu nome é Yuri Salomão Vidotto Rodrigues. 😊
 - Utilizo este espaço para salvar meus projetos e compartilhar meus codigos. 🇧🇷
 
 - ### Meu e-mail para contato é 📧 yuri.vidotto.rodrigues@escola.pr.gov.br
+- ![](https://media.tenor.com/R_WseIIwQ8QAAAAC/beavis-computer.gif)
 - 
 
 <!--
